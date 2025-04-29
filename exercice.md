@@ -35,6 +35,6 @@ SELECT DISTINCT adresses_mail FROM eleve ORDER BY adresses_mail DESC;
 ```sql
 SELECT * FROM eleves WHERE noms = 'Dupond';
 SELECT * FROM eleves ORDER BY eleves ASC;
-SELECT DISTINCT 
+SELECT DISTINCT
 
 ```
